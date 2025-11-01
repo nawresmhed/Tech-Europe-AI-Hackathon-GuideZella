@@ -1,0 +1,8 @@
+flask
+flask-cors
+black
+rich
+python-dotenv
+aci-sdk
+elevenlabs
+openai
